@@ -1,4 +1,4 @@
-# ROGUEHINDU
+# FIGHT OF AMIR
 <p> <h3> Is my first project and i made with my friend. Fight of Amir is a game that is roguelike but is theme Hindu, me and my friend we have a week to do, the main character is called amir and is like the a roguelike but we fight with boss hindu, and yeah idk what to say we put many boss like 5 and came in 5 waves and level up gain power, and defeat bosses </h3>
 <h1> The control are </h1>
 <h3> WSAD to move </h3>
