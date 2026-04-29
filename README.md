@@ -1,4 +1,6 @@
-#FIGHT OF AMIR
+<h1>FIGHT OF AMIR</h1>
+
+
 <h1> About </h1>
 My project is a 2D action survival game called Fight of Amir, built using HTML, CSS, and JavaScript with a canvas-based rendering system. The game focuses on fast-paced combat where the player must survive against increasingly difficult waves of enemies inspired by Hindu mythology.
 
