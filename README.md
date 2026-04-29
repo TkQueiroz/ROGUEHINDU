@@ -26,4 +26,4 @@ For visuals, I used procedural pixel-art sprites and custom rendering instead of
 
 <H1> Reference </H1>
 
-This project was inspired by games like The Binding of Isaac, especially in terms of movement and wave-based survival style, and Brotato, particularly for its fast-paced combat and upgrade system. I used these as references, but I built my own mechanics and systems from scratch and I use claude to help me because we dont have a lot of time to ship for school 
+This project was inspired by games like The Binding of Isaac, especially in terms of movement and wave-based survival style, and Brotato, particularly for its fast-paced combat and upgrade system. I used these as references, but I built my own mechanics and systems from scratch and I use claude to help me because we dont have a lot of time.
