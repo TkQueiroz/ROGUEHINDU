@@ -4,3 +4,5 @@
 <h3> WSAD to move </h3>
 <h3> A/X (on xbox or ps) </h3>
 <h3> E/B/O to use especial </h3>
+<H1> Observation </H1>
+<h3> i need to take the music's cause was giving problems </h3>
